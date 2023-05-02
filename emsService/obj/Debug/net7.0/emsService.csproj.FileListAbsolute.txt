@@ -1,0 +1,45 @@
+/Users/satyamramani/Workspace/lms/emsService/bin/Debug/net7.0/emsService.deps.json
+/Users/satyamramani/Workspace/lms/emsService/bin/Debug/net7.0/emsService.dll
+/Users/satyamramani/Workspace/lms/emsService/bin/Debug/net7.0/emsService.pdb
+/Users/satyamramani/Workspace/lms/emsService/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/emsService/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.csproj.AssemblyReference.cache
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.AssemblyInfoInputs.cache
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.AssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.csproj.CopyComplete
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.dll
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/refint/emsService.dll
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/emsService.pdb
+/Users/satyamramani/Workspace/lms/emsService/obj/Debug/net7.0/ref/emsService.dll
+D:\prasanth\lms\emsService\bin\Debug\net7.0\emsService.deps.json
+D:\prasanth\lms\emsService\bin\Debug\net7.0\emsService.dll
+D:\prasanth\lms\emsService\bin\Debug\net7.0\emsService.pdb
+D:\prasanth\lms\emsService\bin\Debug\net7.0\lms.config.dll
+D:\prasanth\lms\emsService\bin\Debug\net7.0\lms.config.pdb
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.csproj.AssemblyReference.cache
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfoInputs.cache
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfo.cs
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.csproj.CoreCompileInputs.cache
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.csproj.CopyComplete
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.dll
+D:\prasanth\lms\emsService\obj\Debug\net7.0\refint\emsService.dll
+D:\prasanth\lms\emsService\obj\Debug\net7.0\emsService.pdb
+D:\prasanth\lms\emsService\obj\Debug\net7.0\ref\emsService.dll
+D:\tvs lms\lms\emsService\bin\Debug\net7.0\emsService.deps.json
+D:\tvs lms\lms\emsService\bin\Debug\net7.0\emsService.dll
+D:\tvs lms\lms\emsService\bin\Debug\net7.0\emsService.pdb
+D:\tvs lms\lms\emsService\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\emsService\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfo.cs
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.csproj.CopyComplete
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.dll
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\refint\emsService.dll
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.pdb
+D:\tvs lms\lms\emsService\obj\Debug\net7.0\ref\emsService.dll

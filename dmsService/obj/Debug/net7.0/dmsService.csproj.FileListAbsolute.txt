@@ -1,0 +1,15 @@
+D:\tvs lms\lms\dmsService\bin\Debug\net7.0\dmsService.deps.json
+D:\tvs lms\lms\dmsService\bin\Debug\net7.0\dmsService.dll
+D:\tvs lms\lms\dmsService\bin\Debug\net7.0\dmsService.pdb
+D:\tvs lms\lms\dmsService\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\dmsService\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.AssemblyInfo.cs
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.csproj.CopyComplete
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.dll
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\refint\dmsService.dll
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\dmsService.pdb
+D:\tvs lms\lms\dmsService\obj\Debug\net7.0\ref\dmsService.dll

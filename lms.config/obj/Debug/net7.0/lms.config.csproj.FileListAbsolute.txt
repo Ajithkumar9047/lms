@@ -1,0 +1,56 @@
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.AssemblyReference.cache
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfoInputs.cache
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfo.cs
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Projects/lms/lms.config/bin/Debug/net7.0/lms.config.deps.json
+/Users/satyamramani/Projects/lms/lms.config/bin/Debug/net7.0/lms.config.runtimeconfig.json
+/Users/satyamramani/Projects/lms/lms.config/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Projects/lms/lms.config/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/refint/lms.config.dll
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/lms.config.genruntimeconfig.cache
+/Users/satyamramani/Projects/lms/lms.config/obj/Debug/net7.0/ref/lms.config.dll
+D:/prasanth/lms/lms.config/bin/Debug/net7.0/lms.config.deps.json
+D:/prasanth/lms/lms.config/bin/Debug/net7.0/lms.config.runtimeconfig.json
+D:/prasanth/lms/lms.config/bin/Debug/net7.0/lms.config.dll
+D:/prasanth/lms/lms.config/bin/Debug/net7.0/lms.config.pdb
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.AssemblyReference.cache
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.GeneratedMSBuildEditorConfig.editorconfig
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfoInputs.cache
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfo.cs
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.CoreCompileInputs.cache
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.dll
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/refint/lms.config.dll
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.pdb
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/lms.config.genruntimeconfig.cache
+D:/prasanth/lms/lms.config/obj/Debug/net7.0/ref/lms.config.dll
+/Users/satyamramani/Workspace/lms/lms.config/bin/Debug/net7.0/lms.config.deps.json
+/Users/satyamramani/Workspace/lms/lms.config/bin/Debug/net7.0/lms.config.runtimeconfig.json
+/Users/satyamramani/Workspace/lms/lms.config/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/lms.config/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.AssemblyReference.cache
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfoInputs.cache
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.AssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/refint/lms.config.dll
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/lms.config.genruntimeconfig.cache
+/Users/satyamramani/Workspace/lms/lms.config/obj/Debug/net7.0/ref/lms.config.dll
+D:\tvs lms\lms\lms.config\bin\Debug\net7.0\lms.config.deps.json
+D:\tvs lms\lms\lms.config\bin\Debug\net7.0\lms.config.runtimeconfig.json
+D:\tvs lms\lms\lms.config\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\lms.config\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.csproj.AssemblyReference.cache
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.AssemblyInfoInputs.cache
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.AssemblyInfo.cs
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\refint\lms.config.dll
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.genruntimeconfig.cache
+D:\tvs lms\lms\lms.config\obj\Debug\net7.0\ref\lms.config.dll

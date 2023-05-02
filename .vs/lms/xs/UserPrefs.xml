@@ -1,0 +1,98 @@
+﻿<Properties StartupConfiguration="{E00F046F-B234-40A7-B48D-28D45A93A18D}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/satyamramani/Workspace/lms/classifyService/Services/ClassifyLeadService.cs" relfile="classifyService/Services/ClassifyLeadService.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.crmService FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.persistLeadService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="leadLogs/Controllers/LeadLogController.cs">
+    <Files>
+      <File FileName="classifyService/Repository/ClassifyRepository.cs" Line="18" Column="46" />
+      <File FileName="classifyService/AutoMappings/AutoMapping.cs" Line="13" Column="5" />
+      <File FileName="classifyService/Repository/IClassifyRepository.cs" Line="1" Column="1" />
+      <File FileName="classifyService/Services/ClassifyLeadService.cs" Line="65" Column="16" />
+      <File FileName="classifyService/Services/IClassifyLeadService.cs" Line="1" Column="1" />
+      <File FileName="emsService/Repository/EmsRepository.cs" Line="32" Column="10" />
+      <File FileName="emsService/Services/EmsService.cs" Line="94" Column="17" />
+      <File FileName="lms.config/Models/UpdateEmsModel.cs" Line="9" Column="1" />
+      <File FileName="emsService/Repository/IEmsRepository.cs" Line="6" Column="33" />
+      <File FileName="persistLeadService/Services/LeadService.cs" Line="40" Column="36" />
+      <File FileName="emsService/Services/IEmsService.cs" Line="8" Column="32" />
+      <File FileName="persistLeadService/Program.cs" Line="19" Column="1" />
+      <File FileName="persistLeadService/Extensions/MvcExtensions.cs" Line="57" Column="65" />
+      <File FileName="leadLogs/Extensions/MvcExtensions.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Entities/ClassifiedLead.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Models/LeadModel.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Models/LeadLogModel.cs" Line="1" Column="1" />
+      <File FileName="emsService/AutoMappings/AutoMapping.cs" Line="16" Column="53" />
+      <File FileName="lms.config/Entities/DealerMediationControl.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Entities/FinancePushLog.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Entities/Lead.cs" Line="1" Column="1" />
+      <File FileName="persistLeadService/AutoMappings/AutoMapping.cs" Line="21" Column="53" />
+      <File FileName="leadLogs/Services/ProcessValidLeadService.cs" Line="1" Column="1" />
+      <File FileName="leadLogs/Services/LeadLogValidator.cs" Line="15" Column="71" />
+      <File FileName="lms.config/Models/LeadConsumeModel.cs" Line="1" Column="1" />
+      <File FileName="dmsService/Class1.cs" Line="3" Column="1" />
+      <File FileName="dmsService/services/dmsService.cs" Line="9" Column="1" />
+      <File FileName="dmsService/services/IDmsService.cs" Line="5" Column="3" />
+      <File FileName="crmService/Services/ICrmService.cs" Line="1" Column="1" />
+      <File FileName="crmService/Services/CrmService.cs" Line="1" Column="1" />
+      <File FileName="lms.config/Models/CrmRequestModel.cs" Line="22" Column="46" />
+      <File FileName="lms.config/Entities/CrmPushLog.cs" Line="36" Column="52" />
+      <File FileName="lms.config/Models/CrmLogModel.cs" Line="24" Column="1" />
+      <File FileName="crmService/Repository/ICrmRepository.cs" Line="1" Column="1" />
+      <File FileName="crmService/Repository/CrmRepository.cs" Line="12" Column="1" />
+      <File FileName="leadLogs/Services/LeadDispatchService.cs" Line="1" Column="1" />
+      <File FileName="leadLogs/Services/IProcessInvalidLeadService.cs" Line="1" Column="1" />
+      <File FileName="leadLogs/Services/IProcessValidLeadService.cs" Line="1" Column="1" />
+      <File FileName="leadLogs/Services/ProcessInvalidLeadService.cs" Line="42" Column="14" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="267" Column="5" />
+      <File FileName="leadLogs/Controllers/LeadLogController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lms" expanded="True">
+            <Node name="classifyService" expanded="True">
+              <Node name="AutoMappings" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="crmService" expanded="True">
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="dmsService" expanded="True" />
+            <Node name="emsService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="AutoMappings" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="leadReceiptService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="LeadLogController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="lms.config" expanded="True">
+              <Node name="Utils" expanded="True" />
+            </Node>
+            <Node name="persistLeadService" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="AutoMappings" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

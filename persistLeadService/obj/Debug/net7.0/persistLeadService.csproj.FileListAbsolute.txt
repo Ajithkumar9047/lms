@@ -1,0 +1,231 @@
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/appsettings.Development.json
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/appsettings.json
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/persistLeadService
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/persistLeadService.deps.json
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/persistLeadService.runtimeconfig.json
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/persistLeadService.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/persistLeadService.pdb
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/AutoMapper.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Azure.Core.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Azure.Identity.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Humanizer.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Azure.Amqp.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Azure.ServiceBus.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.CodeDom.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/classifyService.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/emsService.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/classifyService.pdb
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/persistLeadService/bin/Debug/net7.0/emsService.pdb
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.csproj.AssemblyReference.cache
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.AssemblyInfoInputs.cache
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.AssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.MvcApplicationPartsAssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.MvcApplicationPartsAssemblyInfo.cache
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets/msbuild.persistLeadService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets/msbuild.build.persistLeadService.props
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.persistLeadService.props
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.persistLeadService.props
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets.build.json
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/staticwebassets.development.json
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/scopedcss/bundle/persistLeadService.styles.css
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.csproj.CopyComplete
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/refint/persistLeadService.dll
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.pdb
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/persistLeadService.genruntimeconfig.cache
+/Users/satyamramani/Workspace/lms/persistLeadService/obj/Debug/net7.0/ref/persistLeadService.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\appsettings.Development.json
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\appsettings.json
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\persistLeadService.exe
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\persistLeadService.deps.json
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\persistLeadService.runtimeconfig.json
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\persistLeadService.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\persistLeadService.pdb
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\AutoMapper.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Azure.Core.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Azure.Identity.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Humanizer.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Azure.ServiceBus.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.IdentityModel.Xml.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.CodeDom.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Private.ServiceModel.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.Duplex.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.Federation.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.Http.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.ServiceModel.Security.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\cs\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\de\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\es\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\fr\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\it\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ja\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ko\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\pl\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ru\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\tr\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\cs\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\de\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\es\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\fr\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\it\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ja\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ko\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\pl\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\pt-BR\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\ru\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\tr\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\classifyService.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\dmsService.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\emsService.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\classifyService.pdb
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\emsService.pdb
+D:\tvs lms\lms\persistLeadService\bin\Debug\net7.0\dmsService.pdb
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.AssemblyInfo.cs
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.MvcApplicationPartsAssemblyInfo.cs
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.MvcApplicationPartsAssemblyInfo.cache
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets\msbuild.persistLeadService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets\msbuild.build.persistLeadService.props
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.persistLeadService.props
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.persistLeadService.props
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets.build.json
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\staticwebassets.development.json
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\scopedcss\bundle\persistLeadService.styles.css
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.csproj.CopyComplete
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.dll
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\refint\persistLeadService.dll
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.pdb
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\persistLeadService.genruntimeconfig.cache
+D:\tvs lms\lms\persistLeadService\obj\Debug\net7.0\ref\persistLeadService.dll

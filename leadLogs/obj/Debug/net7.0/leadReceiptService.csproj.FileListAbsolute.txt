@@ -1,0 +1,509 @@
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.AssemblyReference.cache
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfoInputs.cache
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfo.cs
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cs
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cache
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadLogs.dll
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/refint/leadLogs.dll
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadLogs.pdb
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/appsettings.Development.json
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/appsettings.json
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/leadLogs
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/leadLogs.deps.json
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/leadLogs.runtimeconfig.json
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/leadLogs.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/leadLogs.pdb
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/AutoMapper.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Azure.Core.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Azure.Core.Amqp.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Azure.Identity.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Azure.Messaging.ServiceBus.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/FluentValidation.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Humanizer.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Web.Cors.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Amqp.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.ServiceBus.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.CodeDom.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.leadLogs.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.build.leadLogs.props
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.leadLogs.props
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.leadLogs.props
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets.build.json
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/staticwebassets.development.json
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/scopedcss/bundle/leadLogs.styles.css
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CopyComplete
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.genruntimeconfig.cache
+/Users/satyamramani/Projects/lms/leadLogs/obj/Debug/net7.0/ref/leadLogs.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Projects/lms/leadLogs/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/appsettings.Development.json
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/appsettings.json
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/leadLogs
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/leadLogs.deps.json
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/leadLogs.runtimeconfig.json
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/leadLogs.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/leadLogs.pdb
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/AutoMapper.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Azure.Core.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Azure.Core.Amqp.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Azure.Identity.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Azure.Messaging.ServiceBus.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/FluentValidation.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Humanizer.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Web.Cors.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Amqp.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.ServiceBus.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.CodeDom.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.AssemblyReference.cache
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfoInputs.cache
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cache
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.leadLogs.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.build.leadLogs.props
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.leadLogs.props
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.leadLogs.props
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets.build.json
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/staticwebassets.development.json
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/scopedcss/bundle/leadLogs.styles.css
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CopyComplete
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadLogs.dll
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/refint/leadLogs.dll
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadLogs.pdb
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.genruntimeconfig.cache
+/Users/satyamramani/Workspace/lms/leadLogs/obj/Debug/net7.0/ref/leadLogs.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/appsettings.Development.json
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/appsettings.json
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/leadLogs.exe
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/leadLogs.deps.json
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/leadLogs.runtimeconfig.json
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/leadLogs.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/leadLogs.pdb
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/AutoMapper.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Azure.Core.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Azure.Core.Amqp.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Azure.Identity.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Azure.Messaging.ServiceBus.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/FluentValidation.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Humanizer.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Web.Cors.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Amqp.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.ServiceBus.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Azure.Services.AppAuthentication.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.CodeDom.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Memory.Data.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/lms.config.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/lms.config.pdb
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.AssemblyReference.cache
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.GeneratedMSBuildEditorConfig.editorconfig
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfoInputs.cache
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.AssemblyInfo.cs
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CoreCompileInputs.cache
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cs
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadLogs.MvcApplicationPartsAssemblyInfo.cache
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.leadLogs.Microsoft.AspNetCore.StaticWebAssets.props
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.build.leadLogs.props
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.leadLogs.props
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.leadLogs.props
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets.pack.json
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets.build.json
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/staticwebassets.development.json
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/scopedcss/bundle/leadLogs.styles.css
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.csproj.CopyComplete
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadLogs.dll
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/refint/leadLogs.dll
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadLogs.pdb
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/leadReceiptService.genruntimeconfig.cache
+D:/prasanth/lms/leadLogs/obj/Debug/net7.0/ref/leadLogs.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.Saml.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Xml.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.Private.ServiceModel.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Duplex.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Federation.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Http.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.NetTcp.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Primitives.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Security.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/cs/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/de/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/es/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/fr/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/it/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ja/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ko/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/pl/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/pt-BR/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ru/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/tr/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/zh-Hans/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/zh-Hant/System.Private.ServiceModel.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/cs/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/de/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/es/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/fr/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/it/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ja/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ko/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/pl/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/pt-BR/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/ru/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/tr/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/zh-Hans/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/zh-Hant/System.ServiceModel.Federation.resources.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/dmsService.dll
+D:/prasanth/lms/leadLogs/bin/Debug/net7.0/dmsService.pdb
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.WsTrust.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.Saml.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/Microsoft.IdentityModel.Xml.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.Private.ServiceModel.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Duplex.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Federation.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Http.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.NetTcp.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Primitives.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/System.ServiceModel.Security.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/cs/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/de/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/es/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/fr/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/it/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ja/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ko/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/pl/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/pt-BR/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ru/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/tr/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/zh-Hans/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/zh-Hant/System.Private.ServiceModel.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/cs/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/de/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/es/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/fr/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/it/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ja/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ko/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/pl/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/pt-BR/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/ru/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/tr/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/zh-Hans/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/zh-Hant/System.ServiceModel.Federation.resources.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/dmsService.dll
+/Users/satyamramani/Workspace/lms/leadLogs/bin/Debug/net7.0/dmsService.pdb
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\appsettings.Development.json
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\appsettings.json
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\leadLogs.exe
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\leadLogs.deps.json
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\leadLogs.runtimeconfig.json
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\leadLogs.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\leadLogs.pdb
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\AutoMapper.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Azure.Core.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Azure.Core.Amqp.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Azure.Identity.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Azure.Messaging.ServiceBus.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\FluentValidation.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Humanizer.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Web.Cors.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Azure.ServiceBus.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.IdentityModel.Xml.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.CodeDom.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Private.ServiceModel.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.Duplex.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.Federation.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.Http.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.ServiceModel.Security.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\cs\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\de\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\es\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\fr\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\it\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ja\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ko\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\pl\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ru\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\tr\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\cs\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\de\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\es\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\fr\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\it\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ja\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ko\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\pl\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\pt-BR\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\ru\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\tr\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\dmsService.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\dmsService.pdb
+D:\tvs lms\lms\leadLogs\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.AssemblyInfo.cs
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadLogs.MvcApplicationPartsAssemblyInfo.cs
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadLogs.MvcApplicationPartsAssemblyInfo.cache
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets\msbuild.leadLogs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets\msbuild.build.leadLogs.props
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.leadLogs.props
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.leadLogs.props
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets.build.json
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\staticwebassets.development.json
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\scopedcss\bundle\leadLogs.styles.css
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.csproj.CopyComplete
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadLogs.dll
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\refint\leadLogs.dll
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadLogs.pdb
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\leadReceiptService.genruntimeconfig.cache
+D:\tvs lms\lms\leadLogs\obj\Debug\net7.0\ref\leadLogs.dll

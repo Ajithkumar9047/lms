@@ -1,0 +1,60 @@
+/Users/satyamramani/Projects/lms/classifyService/bin/Debug/net7.0/classifyService.deps.json
+/Users/satyamramani/Projects/lms/classifyService/bin/Debug/net7.0/classifyService.dll
+/Users/satyamramani/Projects/lms/classifyService/bin/Debug/net7.0/classifyService.pdb
+/Users/satyamramani/Projects/lms/classifyService/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Projects/lms/classifyService/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.AssemblyReference.cache
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.AssemblyInfoInputs.cache
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.AssemblyInfo.cs
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.CopyComplete
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.dll
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/refint/classifyService.dll
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/classifyService.pdb
+/Users/satyamramani/Projects/lms/classifyService/obj/Debug/net7.0/ref/classifyService.dll
+/Users/satyamramani/Workspace/lms/classifyService/bin/Debug/net7.0/classifyService.deps.json
+/Users/satyamramani/Workspace/lms/classifyService/bin/Debug/net7.0/classifyService.dll
+/Users/satyamramani/Workspace/lms/classifyService/bin/Debug/net7.0/classifyService.pdb
+/Users/satyamramani/Workspace/lms/classifyService/bin/Debug/net7.0/lms.config.dll
+/Users/satyamramani/Workspace/lms/classifyService/bin/Debug/net7.0/lms.config.pdb
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.AssemblyReference.cache
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.AssemblyInfoInputs.cache
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.AssemblyInfo.cs
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.CoreCompileInputs.cache
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.csproj.CopyComplete
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.dll
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/refint/classifyService.dll
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/classifyService.pdb
+/Users/satyamramani/Workspace/lms/classifyService/obj/Debug/net7.0/ref/classifyService.dll
+D:\prasanth\lms\classifyService\bin\Debug\net7.0\classifyService.deps.json
+D:\prasanth\lms\classifyService\bin\Debug\net7.0\classifyService.dll
+D:\prasanth\lms\classifyService\bin\Debug\net7.0\classifyService.pdb
+D:\prasanth\lms\classifyService\bin\Debug\net7.0\lms.config.dll
+D:\prasanth\lms\classifyService\bin\Debug\net7.0\lms.config.pdb
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.AssemblyReference.cache
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.GeneratedMSBuildEditorConfig.editorconfig
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfoInputs.cache
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfo.cs
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CoreCompileInputs.cache
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CopyComplete
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.dll
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\refint\classifyService.dll
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\classifyService.pdb
+D:\prasanth\lms\classifyService\obj\Debug\net7.0\ref\classifyService.dll
+D:\tvs lms\lms\classifyService\bin\Debug\net7.0\classifyService.deps.json
+D:\tvs lms\lms\classifyService\bin\Debug\net7.0\classifyService.dll
+D:\tvs lms\lms\classifyService\bin\Debug\net7.0\classifyService.pdb
+D:\tvs lms\lms\classifyService\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\classifyService\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfo.cs
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CopyComplete
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.dll
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\refint\classifyService.dll
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.pdb
+D:\tvs lms\lms\classifyService\obj\Debug\net7.0\ref\classifyService.dll

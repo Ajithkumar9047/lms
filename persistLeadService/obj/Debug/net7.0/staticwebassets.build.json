@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PDpVMEJ1tHX6ErxpcmSUqoeERaP/lqe3lRzfaDTb7mQ=",
+  "Source": "persistLeadService",
+  "BasePath": "_content/persistLeadService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

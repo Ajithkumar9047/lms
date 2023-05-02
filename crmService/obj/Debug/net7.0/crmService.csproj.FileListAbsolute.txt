@@ -1,0 +1,15 @@
+D:\tvs lms\lms\crmService\bin\Debug\net7.0\crmService.deps.json
+D:\tvs lms\lms\crmService\bin\Debug\net7.0\crmService.dll
+D:\tvs lms\lms\crmService\bin\Debug\net7.0\crmService.pdb
+D:\tvs lms\lms\crmService\bin\Debug\net7.0\lms.config.dll
+D:\tvs lms\lms\crmService\bin\Debug\net7.0\lms.config.pdb
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.csproj.AssemblyReference.cache
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.AssemblyInfoInputs.cache
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.AssemblyInfo.cs
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.csproj.CoreCompileInputs.cache
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.csproj.CopyComplete
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.dll
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\refint\crmService.dll
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\crmService.pdb
+D:\tvs lms\lms\crmService\obj\Debug\net7.0\ref\crmService.dll
