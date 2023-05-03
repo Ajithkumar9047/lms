@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ri/xnSGpyTYadvleh6kOi5TS0UKosmUZpsB56bJb7/78dF8TKEZY7VoQEKAd+a9UAvY1K8lmjmIrjPPII4GrFA==",
+  "dgSpecHash": "0LaQtWfpsl7tKqiy/ZATDQwCNEl5x7haRycKCPe8WK+yAtXEeYciywGVbM7fMzIHUjb0Zc1TB9uW0fnt4z1pKg==",
   "success": true,
-  "projectFilePath": "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj",
+  "projectFilePath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

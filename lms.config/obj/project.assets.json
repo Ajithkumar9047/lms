@@ -3528,11 +3528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj",
+      "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj",
       "projectName": "lms.config",
-      "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj",
+      "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj",
       "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-      "outputPath": "D:\\tvs lms\\lms\\lms.config\\obj\\",
+      "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

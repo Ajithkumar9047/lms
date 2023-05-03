@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tvs lms\\lms\\persistLeadService\\persistLeadService.csproj": {}
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\persistLeadService\\persistLeadService.csproj": {}
   },
   "projects": {
-    "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj": {
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj",
+        "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj",
         "projectName": "classifyService",
-        "projectPath": "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj",
+        "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj",
         "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-        "outputPath": "D:\\tvs lms\\lms\\classifyService\\obj\\",
+        "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj": {
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj",
+        "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj",
         "projectName": "dmsService",
-        "projectPath": "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj",
+        "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj",
         "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-        "outputPath": "D:\\tvs lms\\lms\\dmsService\\obj\\",
+        "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,8 +111,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "D:\\tvs lms\\lms\\emsService\\emsService.csproj": {
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\emsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tvs lms\\lms\\emsService\\emsService.csproj",
+        "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\emsService.csproj",
         "projectName": "emsService",
-        "projectPath": "D:\\tvs lms\\lms\\emsService\\emsService.csproj",
+        "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\emsService.csproj",
         "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-        "outputPath": "D:\\tvs lms\\lms\\emsService\\obj\\",
+        "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,8 +197,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj",
+        "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj",
         "projectName": "lms.config",
-        "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj",
+        "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj",
         "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-        "outputPath": "D:\\tvs lms\\lms\\lms.config\\obj\\",
+        "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -326,14 +326,14 @@
         }
       }
     },
-    "D:\\tvs lms\\lms\\persistLeadService\\persistLeadService.csproj": {
+    "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\persistLeadService\\persistLeadService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tvs lms\\lms\\persistLeadService\\persistLeadService.csproj",
+        "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\persistLeadService\\persistLeadService.csproj",
         "projectName": "persistLeadService",
-        "projectPath": "D:\\tvs lms\\lms\\persistLeadService\\persistLeadService.csproj",
+        "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\persistLeadService\\persistLeadService.csproj",
         "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-        "outputPath": "D:\\tvs lms\\lms\\persistLeadService\\obj\\",
+        "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\persistLeadService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -355,17 +355,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj"
               },
-              "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj"
               },
-              "D:\\tvs lms\\lms\\emsService\\emsService.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\emsService\\emsService.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\emsService.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\emsService\\emsService.csproj"
               },
-              "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
-                "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj"
+              "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
+                "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj"
               }
             }
           }

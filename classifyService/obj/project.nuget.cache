@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QcxYO1nfNZHG4s8KE0ncC+kV2mSZ+sQxUliL5zXuOYUSVcH48erekWBjTJkrqkQfNsGH0cF1s3o/FvcX8ljcg==",
+  "dgSpecHash": "WqhcB3YnYykwoORc4FhxPDcCGeDq9HkC3xlhJNzUAJFseF7sp9moBq5mTXoGRjsnZ4dk09zzYN+4qmAfqSmvUA==",
   "success": true,
-  "projectFilePath": "D:\\tvs lms\\lms\\classifyService\\classifyService.csproj",
+  "projectFilePath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\classifyService\\classifyService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

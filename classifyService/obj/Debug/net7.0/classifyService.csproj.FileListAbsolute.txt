@@ -58,3 +58,18 @@ D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.dll
 D:\tvs lms\lms\classifyService\obj\Debug\net7.0\refint\classifyService.dll
 D:\tvs lms\lms\classifyService\obj\Debug\net7.0\classifyService.pdb
 D:\tvs lms\lms\classifyService\obj\Debug\net7.0\ref\classifyService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\bin\Debug\net7.0\classifyService.deps.json
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\bin\Debug\net7.0\classifyService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\bin\Debug\net7.0\classifyService.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\bin\Debug\net7.0\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\bin\Debug\net7.0\lms.config.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.AssemblyReference.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfoInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.AssemblyInfo.cs
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CoreCompileInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.csproj.CopyComplete
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\refint\classifyService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\classifyService.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\classifyService\obj\Debug\net7.0\ref\classifyService.dll

@@ -43,3 +43,18 @@ D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.dll
 D:\tvs lms\lms\emsService\obj\Debug\net7.0\refint\emsService.dll
 D:\tvs lms\lms\emsService\obj\Debug\net7.0\emsService.pdb
 D:\tvs lms\lms\emsService\obj\Debug\net7.0\ref\emsService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\bin\Debug\net7.0\emsService.deps.json
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\bin\Debug\net7.0\emsService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\bin\Debug\net7.0\emsService.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\bin\Debug\net7.0\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\bin\Debug\net7.0\lms.config.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.csproj.AssemblyReference.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfoInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.AssemblyInfo.cs
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.csproj.CoreCompileInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.csproj.CopyComplete
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\refint\emsService.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\emsService.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\emsService\obj\Debug\net7.0\ref\emsService.dll

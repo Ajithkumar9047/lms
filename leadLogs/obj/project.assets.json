@@ -10297,11 +10297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tvs lms\\lms\\leadLogs\\leadReceiptService.csproj",
+      "projectUniqueName": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\leadLogs\\leadReceiptService.csproj",
       "projectName": "leadLogs",
-      "projectPath": "D:\\tvs lms\\lms\\leadLogs\\leadReceiptService.csproj",
+      "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\leadLogs\\leadReceiptService.csproj",
       "packagesPath": "C:\\Users\\User.EPAGE-LD22-142\\.nuget\\packages\\",
-      "outputPath": "D:\\tvs lms\\lms\\leadLogs\\obj\\",
+      "outputPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\leadLogs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10323,11 +10323,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj": {
-              "projectPath": "D:\\tvs lms\\lms\\dmsService\\dmsService.csproj"
+            "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj": {
+              "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\dmsService\\dmsService.csproj"
             },
-            "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj": {
-              "projectPath": "D:\\tvs lms\\lms\\lms.config\\lms.config.csproj"
+            "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj": {
+              "projectPath": "C:\\Users\\User.EPAGE-LD22-142\\Documents\\GitHub\\tvslms\\lms\\lms.config\\lms.config.csproj"
             }
           }
         }

@@ -54,3 +54,17 @@ D:\tvs lms\lms\lms.config\obj\Debug\net7.0\refint\lms.config.dll
 D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.pdb
 D:\tvs lms\lms\lms.config\obj\Debug\net7.0\lms.config.genruntimeconfig.cache
 D:\tvs lms\lms\lms.config\obj\Debug\net7.0\ref\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\bin\Debug\net7.0\lms.config.deps.json
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\bin\Debug\net7.0\lms.config.runtimeconfig.json
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\bin\Debug\net7.0\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\bin\Debug\net7.0\lms.config.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.csproj.AssemblyReference.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.AssemblyInfoInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.AssemblyInfo.cs
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.csproj.CoreCompileInputs.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\refint\lms.config.dll
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.pdb
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\lms.config.genruntimeconfig.cache
+C:\Users\User.EPAGE-LD22-142\Documents\GitHub\tvslms\lms\lms.config\obj\Debug\net7.0\ref\lms.config.dll
